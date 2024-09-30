@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Alexey</h1>
 <h3 align="center">A Frontend Developer from Russia</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 My portfolio https://nextjs-portfolio-alex008145s-projects.vercel.app/
 
 - 📫 How to reach me **alex008145@gmail.com**
 
